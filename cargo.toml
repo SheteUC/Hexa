@@ -1,0 +1,11 @@
+[package]
+name = "hello"
+version = "0.1.0"
+
+[dependencies]
+aes = "0.8.2"
+block-modes = "0.9.1"
+rand = "0.8.4"
+pbkdf2 = "0.12.1"
+image = "0.24"
+crypto = "0.4.0"
